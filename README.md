@@ -11,7 +11,7 @@ Clone this repository to your local machine:
 
 bash
 Copy code
-git clone https://github.com/your-username/salary-prediction.git
+git clone https://github.com/diya-thabet/Simple-Linear-Regression-Salary-prediction.git
 
 ## Conclusion
 This project demonstrates a simple linear regression model for predicting salary based on years of experience. By training the model on the provided dataset and visualizing the results, we can observe the relationship between years of experience and salary, and make predictions accordingly.
