@@ -9,7 +9,7 @@ To get started with using the model and running the code:
 
 Clone this repository to your local machine:
 
-bash
+
 Copy code
 git clone https://github.com/diya-thabet/Simple-Linear-Regression-Salary-prediction.git
 
