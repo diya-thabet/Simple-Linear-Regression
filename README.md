@@ -11,6 +11,7 @@ Clone this repository to your local machine:
 
 
 Copy code
+
 git clone https://github.com/diya-thabet/Simple-Linear-Regression-Salary-prediction.git
 
 ## Conclusion
